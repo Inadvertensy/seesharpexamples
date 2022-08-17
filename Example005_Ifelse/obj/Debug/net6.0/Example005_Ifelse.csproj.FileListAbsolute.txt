@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\bin\Debug\net6.0\Example005_Ifelse.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\bin\Debug\net6.0\Example005_Ifelse.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\bin\Debug\net6.0\Example005_Ifelse.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\bin\Debug\net6.0\Example005_Ifelse.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\bin\Debug\net6.0\Example005_Ifelse.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\refint\Example005_Ifelse.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\Example005_Ifelse.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example005_Ifelse\obj\Debug\net6.0\ref\Example005_Ifelse.dll
