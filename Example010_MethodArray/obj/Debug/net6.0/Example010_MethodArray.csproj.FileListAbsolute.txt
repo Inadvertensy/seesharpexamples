@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\refint\Example010_MethodArray.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example010_MethodArray\obj\Debug\net6.0\ref\Example010_MethodArray.dll
