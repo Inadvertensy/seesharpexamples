@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\bin\Debug\net6.0\Example008_IntroMax.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\bin\Debug\net6.0\Example008_IntroMax.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\bin\Debug\net6.0\Example008_IntroMax.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\bin\Debug\net6.0\Example008_IntroMax.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\bin\Debug\net6.0\Example008_IntroMax.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\refint\Example008_IntroMax.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\Example008_IntroMax.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example008_IntroMax\obj\Debug\net6.0\ref\Example008_IntroMax.dll
