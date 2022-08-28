@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\bin\Debug\net6.0\Example012.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\bin\Debug\net6.0\Example012.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\bin\Debug\net6.0\Example012.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\bin\Debug\net6.0\Example012.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\bin\Debug\net6.0\Example012.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\refint\Example012.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\Example012.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example012\obj\Debug\net6.0\ref\Example012.dll
