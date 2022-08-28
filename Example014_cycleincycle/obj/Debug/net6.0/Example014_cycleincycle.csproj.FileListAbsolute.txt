@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\bin\Debug\net6.0\Example014_cycleincycle.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\bin\Debug\net6.0\Example014_cycleincycle.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\bin\Debug\net6.0\Example014_cycleincycle.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\bin\Debug\net6.0\Example014_cycleincycle.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\bin\Debug\net6.0\Example014_cycleincycle.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\refint\Example014_cycleincycle.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\Example014_cycleincycle.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example014_cycleincycle\obj\Debug\net6.0\ref\Example014_cycleincycle.dll
