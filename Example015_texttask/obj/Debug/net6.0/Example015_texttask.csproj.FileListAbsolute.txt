@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\bin\Debug\net6.0\Example015_texttask.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\bin\Debug\net6.0\Example015_texttask.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\bin\Debug\net6.0\Example015_texttask.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\bin\Debug\net6.0\Example015_texttask.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\bin\Debug\net6.0\Example015_texttask.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\refint\Example015_texttask.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\Example015_texttask.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Examples\Example015_texttask\obj\Debug\net6.0\ref\Example015_texttask.dll
